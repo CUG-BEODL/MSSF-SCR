@@ -22,7 +22,7 @@ Use the *trainData_prepare* file in the tool folder to automatically generate th
 ## Contact
 If you find this resource helpful, please consider to star this repository and cite our research.  
 ```
-@ARTICLE{10824821,
+@article{10824821,
   author={Yuan, Ye and Zhou, Shuguang and Bian, Jianhua and Wang, Jinlin and Han, Wei and Yan, Jining},
   journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
   title={High-Resolution Geochemical Data Mapping With Swin Transformer-Convolution-Based Multi-Source Geoscience Data Fusion}, 
