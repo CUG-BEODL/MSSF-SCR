@@ -13,7 +13,7 @@ conda create -n mssf_scr python=3.10
 # Recommend installing according to the official PyTorch method.(Don't use the following)
 conda install pytorch=2.1
 
-conda imstall timm=0.9.16
+conda install timm=0.9.16
 ```
 
 - **Training data**  
@@ -21,4 +21,14 @@ Use the *trainData_prepare* file in the tool folder to automatically generate th
 
 ## Contact
 If you find this resource helpful, please consider to star this repository and cite our research.  
-Coming Soon
+```
+@ARTICLE{10824821,
+  author={Yuan, Ye and Zhou, Shuguang and Bian, Jianhua and Wang, Jinlin and Han, Wei and Yan, Jining},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
+  title={High-Resolution Geochemical Data Mapping With Swin Transformer-Convolution-Based Multi-Source Geoscience Data Fusion}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-14},
+  doi={10.1109/JSTARS.2025.3525675}}
+```
