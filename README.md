@@ -20,5 +20,5 @@ conda imstall timm=0.9.16
 Use the trainData_prepare file in the tool folder to automatically generate the required training files. If there is no patch shapefile, run patch_prepare first (a CSV file with coordinate information is required).
 
 ## Contact
-If you find this resource helpful, please consider to star this repository and cite our research.
+If you find this resource helpful, please consider to star this repository and cite our research.  
 Coming Soon
