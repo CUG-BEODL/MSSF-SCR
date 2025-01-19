@@ -1,4 +1,11 @@
-# <center>High-Resolution Geochemical Data Mapping With Swin Transformer-Convolution-Based Multi-Source Geoscience Data Fusion
+# <center> High-Resolution Geochemical Data Mapping With Swin Transformer-Convolution-Based Multi-Source Geoscience Data Fusion </center>
+
+<div align="center">
+
+**[[Paper Page]](https://ieeexplore.ieee.org/abstract/document/10824821)**
+
+</div>
+
 
 ## Quick View
 ![MSSF-SCR](img/model.png)
@@ -20,9 +27,11 @@ conda install timm=0.9.16
 Use the *trainData_prepare.py* file in the tool folder to automatically generate the required training files. If there is no patch shapefile, run *patch_prepare.py* first (a CSV file with coordinate information is required).
 
 ## Contact
-If you find this resource helpful, please consider to star this repository and cite our research.  
+ 🙋 If you have any question or want to use the code, please contact yanjn@cug.edu.cn
+
+ 🌟 If you find this resource helpful, please consider to star this repository and cite our research.  
 ```
-@ARTICLE{10824821,
+@ARTICLE{yuan2025high,
   author={Yuan, Ye and Zhou, Shuguang and Bian, Jianhua and Wang, Jinlin and Han, Wei and Yan, Jining},
   journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
   title={High-Resolution Geochemical Data Mapping With Swin Transformer-Convolution-Based Multisource Geoscience Data Fusion}, 
