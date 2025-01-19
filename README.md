@@ -17,18 +17,19 @@ conda install timm=0.9.16
 ```
 
 - **Training data**  
-Use the *trainData_prepare* file in the tool folder to automatically generate the required training files. If there is no patch shapefile, run *patch_prepare* first (a CSV file with coordinate information is required).
+Use the *trainData_prepare.py* file in the tool folder to automatically generate the required training files. If there is no patch shapefile, run *patch_prepare.py* first (a CSV file with coordinate information is required).
 
 ## Contact
 If you find this resource helpful, please consider to star this repository and cite our research.  
 ```
-@article{10824821,
+@ARTICLE{10824821,
   author={Yuan, Ye and Zhou, Shuguang and Bian, Jianhua and Wang, Jinlin and Han, Wei and Yan, Jining},
   journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
-  title={High-Resolution Geochemical Data Mapping With Swin Transformer-Convolution-Based Multi-Source Geoscience Data Fusion}, 
+  title={High-Resolution Geochemical Data Mapping With Swin Transformer-Convolution-Based Multisource Geoscience Data Fusion}, 
   year={2025},
-  volume={},
+  volume={18},
   number={},
-  pages={1-14},
+  pages={3530-3543},
+  keywords={Remote sensing;Geoscience;Transformers;Feature extraction;Geology;Data models;Accuracy;Costs;Vegetation mapping;Mineral resources;Data fusion;deep learning;geochemical data;multisource geoscience data;remote sensing},
   doi={10.1109/JSTARS.2025.3525675}}
 ```
